@@ -32,7 +32,8 @@
 
 ## 🛠️ 사용 도구와 기술
 
-![Figma](https://shields.io) ![Photoshop](https://shields.io) ![Illustrator](https://shields.io) ![After Effects](https://shields.io) ![Premiere Pro](https://shields.io) ![Aseprite](https://shields.io) ![Spine](https://shields.io) ![Clip Studio Paint](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io)
+`Figma` `Photoshop` `Illustrator` `After Effects` `Premiere Pro` `Aseprite` `Spine` `Clip Studio Paint` `HTML5` `CSS3` `Git` `GitHub`
+
 
 
 ## 📂 포트폴리오 프로젝트
