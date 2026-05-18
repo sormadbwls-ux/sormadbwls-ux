@@ -100,6 +100,6 @@ mindmap
 
 | 구분 | 링크 |
 |---|---|
-| Email | your-email@example.com |
+| Email | sormadbwls@naver.com |
 | Portfolio | 준비 중 |
-| GitHub | https://github.com/your-github-id |
+| GitHub | https://github.com/sormadbwls-ux |
