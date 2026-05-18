@@ -1,102 +1,87 @@
 # UI/UX · 웹디자이너
 
-사용자의 흐름을 이해하고,  
-**디자인에서 웹 구현까지 연결되는 화면 경험**을 설계합니다.
+사용자의 흐름을 고려하여 직관적이고 아름다운 **화면 경험**을 설계합니다.
+편집 디자인과 비주얼 일러스트를 기반으로 서비스의 다채로운 매력을 시각화합니다.
 
-`UI/UX 디자인` · `웹디자인` · `Figma` · `반응형 웹` · `HTML` · `CSS` · `JavaScript`
+`UI/UX 디자인` / `웹디자인` / `랜딩페이지` / `상세페이지` / `편집디자인` / `일러스트`
 
 ---
 
-## 소개
+## 📋 소개
+
 
 | 구분 | 내용 |
 |---|---|
-| 디자인 분야 | UI/UX 디자인, 웹디자인, 비주얼 디자인 |
-| UX 설계 | 사용자 흐름, 정보 구조, 와이어프레임, 프로토타입 |
-| 웹 이해도 | HTML, CSS, JavaScript, 반응형 웹 |
-| 관심 분야 | 디자인 시스템, 웹접근성, 퍼블리싱, 사용자 경험 개선 |
+| 디자인 분야 | UI/UX 디자인, 웹디자인, 편집 디자인, 상세·랜딩페이지 |
+| 비주얼 역량 | 일러스트 제작, 가독성 높은 레이아웃 설계, 브랜드 비주얼 기획 |
+| 개발 협업 | HTML/CSS 마크업 구조 이해 (개발자와의 원활한 소통 가능) |
+| 관심 분야 | 디자인 시스템 구축, 웹 접근성 지침을 고려한 UI 설계 |
 
----
+## 🎯 주요 관심 영역
 
-## 주요 관심 영역
 
 | 영역 | 설명 |
 |---|---|
-| UI/UX 디자인 | 사용자가 이해하기 쉬운 화면 흐름과 구조를 설계합니다. |
-| 웹디자인 | 브랜드와 서비스 목적에 맞는 웹 인터페이스를 디자인합니다. |
-| 퍼블리싱 이해 | 디자인이 실제 웹 화면에서 구현되는 방식을 고려합니다. |
-| 디자인 시스템 | 색상, 타이포그래피, 버튼, 컴포넌트를 일관성 있게 정리합니다. |
+| 비주얼 스토리텔링 | 브랜드의 메시지를 매력적인 일러스트와 그래픽으로 시각화합니다. |
+| 목적 기반 디자인 | 구매 전환을 높이는 상세페이지와 사용자를 사로잡는 랜딩페이지를 연구합니다. |
+| 일관성 있는 UI | 서비스의 매력을 통일감 있게 전달하는 디자인 시스템과 컴포넌트에 관심이 많습니다. |
+| 친절한 사용자 경험 | 사용자가 화면 안에서 길을 잃지 않도록 쉽고 직관적인 흐름을 설계합니다. |
+
 
 ---
 
-## 사용 도구와 기술
+## 🛠️ 사용 도구와 기술
 
-### Design
+![Figma](https://shields.io) ![Photoshop](https://shields.io) ![Illustrator](https://shields.io) ![After Effects](https://shields.io) ![Premiere Pro](https://shields.io) ![Aseprite](https://shields.io) ![Spine](https://shields.io) ![Clip Studio Paint](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io)
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 
-### Web
+## 📂 포트폴리오 프로젝트
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-## 포트폴리오 프로젝트
-
-| 프로젝트 | 유형 | 주요 작업 |
+| 프로젝트 유형 | 주요 작업 영역 | 사용 툴 |
 |---|---|---|
-| UI/UX 디자인 프로젝트 | UX/UI | 사용자 흐름, 정보 구조, 와이어프레임, 프로토타입 |
-| 웹디자인 프로젝트 | Web Design | 메인 페이지, 서브 페이지, 컬러 시스템, 타이포그래피 |
-| 퍼블리싱 프로젝트 | Frontend | HTML, CSS, JavaScript, 반응형 웹 구현 |
+| **UI/UX 디자인** | 사용자 흐름(User Flow), 와이어프레임, 프로토타입 설계, 디자인 시스템 구축 | Figma, Photoshop |
+| **웹 · 랜딩페이지 디자인** | 메인/서브 페이지 레이아웃, 컬러 & 타이포그래피 가이드, 가독성 중심의 비주얼 리소스 기획 | Figma, Illustrator, Photoshop |
+| **비주얼 UI & 웹 구현** | 고품질 그래픽 및 모션 소스 제작, 포토샵 비주얼 보정, HTML/CSS 기반 웹 화면 구현 검토 | Photoshop, Illustrator, After Effects, HTML/CSS |
 
 ---
 
-## 작업 프로세스
+## ⚙️ 작업 프로세스
 
 ```mermaid
 flowchart LR
-    A[문제 이해] --> B[사용자 분석]
-    B --> C[정보 구조 설계]
-    C --> D[와이어프레임]
-    D --> E[UI 디자인]
-    E --> F[프로토타입]
-    F --> G[피드백 반영]
-    G --> H[웹 구현 검토]
+    A[문제 정의 및 기획] --> B[사용자 흐름 설계]
+    B --> C[와이어프레임 & 레이아웃]
+    C --> D[UI 디자인 및 비주얼 리소스 제작]
+    D --> E[프로토타이핑 & 인터랙션 구현]
+    E --> F[최종 검토 및 개발 협업 전달]
 ```
+
 
 ---
 
-## 디자인 사고 구조
+## 🧠 디자인 사고 구조
 
 ```mermaid
 mindmap
   root((Design))
-    UX
+    UX 설계
       사용자 흐름
       정보 구조
       와이어프레임
       프로토타입
-    UI
+    UI 디자인
       레이아웃
-      컬러
+      컬러 가이드
       타이포그래피
-      컴포넌트
-    Web
-      HTML
-      CSS
-      JavaScript
-      반응형 웹
+      디자인 시스템
+    비주얼 리소스
+      일러스트
+      도트 그래픽
+      모션 애니메이션
 ```
+
 
 ---
 
