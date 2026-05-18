@@ -86,15 +86,17 @@ mindmap
 
 ---
 
-## 현재 학습 중인 내용
+## 📚 학습 및 연구 분야
 
-![Design System](https://img.shields.io/badge/디자인%20시스템-학습중-7B61FF?style=flat-square)
-![Responsive Web](https://img.shields.io/badge/반응형%20웹-학습중-1572B6?style=flat-square)
-![Accessibility](https://img.shields.io/badge/웹접근성-학습중-2E7D32?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-학습중-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-기초%20학습-61DAFB?style=flat-square&logo=react&logoColor=black)
-
----
+* **UI/UX & Web**
+  * 디자인 시스템 및 UI 컴포넌트 설계 고도화
+  * 개발자 소통을 위한 웹 구조(HTML/CSS) 이해
+* **Visual & Motion**
+  * 2D 애니메이션(Spine) 및 인터랙티브 모션 연구
+* **3D Graphic** `학습 중`
+  * Blender를 활용한 3D 그래픽 소스 제작 및 모델링
+* **Illustration** `이수 / 연구 중`
+  * 클립스튜디오 기반 만화 연출 및 드로잉 고도화
 
 ## Contact
 
