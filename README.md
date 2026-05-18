@@ -103,5 +103,6 @@ mindmap
 | 구분 | 링크 |
 |---|---|
 | Email | sormadbwls@naver.com |
+| Notion | https://www.notion.so/35fffe8eafbe801080f4d39057b94a4a |
 | Portfolio | 준비 중 |
 | GitHub | https://github.com/sormadbwls-ux |
